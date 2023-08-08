@@ -1,0 +1,551 @@
+.div{
+	height: 15000px;
+	width:5000px;
+	background-color: cyan;
+
+
+}
+.div1{
+	height: 1500px;
+	width:5000px;
+	background-color: black;
+
+
+
+
+}
+
+.subdiv1{	
+	height: 1500px;
+	width:2500;
+	background-color: black;
+	float: left;
+
+
+}
+.image1{
+      width: 1000px;
+      height: 1200px;
+      float: left;
+      margin-left: 200px;
+}
+.subdiv2{	
+	height: 1500px;
+	width:2500;
+	background-color: black;
+     float: right;
+
+}
+
+.h1{
+	color: white;
+	font-size: 150px;
+	line-height: center;
+	padding-top: 300px;
+	margin-right: 2000px;
+	padding-left: 700px;
+
+
+}
+.p1{
+	color: white;
+	font-size: 55px;
+	margin-right: 1000px;
+
+}
+.div2{
+	height: 1500px;
+	width:5000px;
+	background-color: white;
+
+
+} 
+.subdiv3{	
+	height: 1500px;
+	width:2500;
+	background-color: white;
+	float: left;
+
+
+}
+.h2{
+	color: black;
+	font-size: 50px;
+	line-height: center;
+	padding-top: 100px;
+	margin-right: 600px;
+	padding-left: 100px;
+
+
+}
+.h3{
+	color: black;
+	font-size: 100px;
+	line-height: center;
+	padding-top: 0px;
+	margin-right: 400px;
+	padding-left: 100px;
+
+
+}
+.p2{
+	color: black;
+	font-size: 80px;
+	padding-left: 100px;
+}
+
+aside{
+	border: 1px  white solid;
+            width: 1500px;
+            height: 900px;
+            float: left;
+}
+
+.subdiv4{	
+	height: 1500px;
+	width:2500;
+	background-color:white;
+	float: left;
+
+
+}
+.image2{
+      width: 1800px;
+      height: 1200px;
+      float: right;
+      margin-left: 1200px;
+      padding-top: 150px;
+
+}
+.div3{
+	height: 1500px;
+	width:5000px;
+	background-color: black;
+
+
+}
+.subdiv5{	
+	height: 1500px;
+	width:2500px;
+	background-color: black;
+	float: left;
+
+
+}
+.h4{
+ color: white;
+ font-size: 100px;
+ padding-top: 200px;
+ padding-right : 600px;
+
+}
+.p3{
+
+	color: white;
+	font-size: 70px;
+	padding-right : 600px;
+}
+
+.image3{
+	height: 400px;
+	width: 3000px;
+	padding-top: 100px;
+	padding-left: 999px;
+}
+.subdiv6{	
+	height: 1500px;
+	width:2500px;
+	background-color: #96DED1;
+	float: right;
+
+
+}
+.image4{
+	height: 400px;
+	width: 1700px;
+	padding-top: 785px;
+	padding-right: 799px;
+	
+}
+
+
+.div4{
+	height: 1500px;
+	width:5000px;
+	background-color: white;
+
+
+}
+.subdiv7
+{
+width: 1300px;
+height: 1100px;
+float: left;
+background-color: #ADD8E6;
+margin: 0px;
+padding-right: 10px;
+position: relative;
+top: 150px;
+bottom: 200px;
+left: 100px;
+
+}
+.subsubdiv1
+{
+width: 1310px;
+height: 400px;
+background-color: #D8BFD8;
+position: stack;
+top: 0px
+
+
+}
+.subsubdiv2
+{
+width: 1310px;
+height: 670px;
+background-color: cyan;
+position: stack;
+top: 0px
+
+
+}
+.image8
+{
+	height:670px;
+	width: 1310px;
+
+}
+.h5
+{
+color: white;
+font-size: 50px;
+position: relative;
+top: 70px;
+}
+.subdiv8
+{
+	width: 1300px;
+height: 1100px;
+float: left;
+background-color: pink;
+margin: 0px;
+padding-right: 10px;
+position: relative;
+top: 150px;
+bottom: 200px;
+left: 500px;
+
+}
+.image7{
+	height:1100px;
+	width: 1310px;
+
+}
+button{
+	font-size: 50px;
+	text-align: center;
+	position: relative;
+	top: 1300px;
+    right: 2000px;
+    color: black;
+    border:70px red;
+}
+.subdiv9
+{
+	width: 1300px;
+height: 1100px;
+float: left;
+background-color: cyan;
+margin: 0px;
+padding-right: 10px;
+position: relative;
+top: 150px;
+bottom: 200px;
+left: 1000px;
+
+
+}
+.p4{
+	color: black;
+	font-size: 55px;
+}
+
+.div5{
+	height: 1500px;
+	width:5000px;
+	background-color: black;
+
+
+
+}
+.subdiv10
+{
+width: 1666px;
+height: 1500px;
+background-color: orange;
+float: left;
+
+}
+.h6
+{
+	color:white;
+	font-size: 100px;
+	padding-top: 200px;
+}
+.image9
+{
+	height: 200px;
+	width:200px;
+	position: relative;
+	top: 200px;
+
+}
+.p5{
+	color:black;
+	font-size: 55px;
+}
+.subdiv11
+{
+width: 1666px;
+height: 1500px;
+background-color:white;
+float: left;
+
+}
+.h7
+{
+	color:black;
+	font-size: 100px;
+	padding-top: 200px;
+}
+.image10
+{
+	height: 200px;
+	width:200px;
+	position: relative;
+	top: 200px;
+
+}
+.p6{
+	color:black;
+	font-size: 55px;
+}
+.subdiv12
+{
+width: 1666px;
+height: 1500px;
+background-color:green;
+float: left;
+
+}
+.h8
+{
+	color:black;
+	font-size: 100px;
+	padding-top: 200px;
+}
+.image11
+{
+	height: 200px;
+	width:200px;
+	position: relative;
+	top: 200px;
+
+}
+.p7{
+	color:black;
+	font-size:55px;
+}
+.div6{
+	height: 1500px;
+	width:5000px;
+	background-color: cyan;
+
+
+}
+.h9
+{
+	color: black;
+	font-size: 100px;
+}
+.image12
+{
+	height: 1000px;
+	width: 3200px;
+	position: relative;
+	top: 100px;
+}
+.div7{
+	height: 1500px;
+	width:5000px;
+	background-color:black;
+
+
+
+}
+.subsubdiv3
+{
+	background-color: black;
+	width: 1000px;
+	height: 1500px;
+	float: left;
+
+}
+.image13
+{
+	width: 300px;
+	height: 300px;
+	position: relative;
+	top: 200px;
+	left: 400px;
+
+}
+.subsubdiv4
+{
+	background-color: black;
+	width: 4000px;
+	height: 1500px;
+	float: right;
+}
+.p8{
+	color: white;
+	font-size: 100px;
+	position: relative;
+	top: 450px;
+}
+.h10
+{
+	color: white;
+	font-size: 150px;
+	position: relative;
+	top: 500px;
+	left: 1200px;
+}
+.div8{
+	height: 1500px;
+	width:5000px;
+	background-color: cyan;
+
+
+}
+
+.mani1
+{
+	width: 2500px;
+	height: 1500px;
+	float: left;
+	background-color: cyan;
+}
+.image14
+{
+	width: 900px;
+	height: 1300px;
+	position: relative;
+	left: 800px;
+	top: 100px;
+}
+.mani2
+{
+	width: 2500px;
+	height: 1500px;
+	float: left;
+	background-color:pink;
+}
+.p9
+{
+ color:black;
+	font-size:60px;	
+}
+.aside1
+{
+	border: 1px  pink solid;
+            width: 900px;
+            height: 1300px;
+            float: left;
+            position: relative;
+            top: 100px;
+            font-size: 60px;
+}
+.h11
+{
+	color: black;
+	font-size: 70px;
+}
+.div9{
+	height: 1500px;
+	width:5000px;
+	background-color: black;
+
+
+}
+
+.mani3
+{
+	width: 2500px;
+	height: 1500px;
+	float: left;
+	background-color:white;
+}
+.image16
+{
+	width: 1000px;
+	height: 1300px;
+	position: relative;
+	left: 750px;
+	top: 100px;
+}
+.mani4
+{
+	width: 2500px;
+	height: 1500px;
+	float: left;
+	background-color: white;
+}
+.p10
+{
+ color:black;
+	font-size:60px;	
+}
+.h12
+{
+	color: black;
+	font-size: 70px;
+}
+.aside2
+{
+	border: 1px  white solid;
+            width: 900px;
+            height: 1300px;
+            float: left;
+            position: relative;
+            top: 100px;
+            font-size: 60px;
+}
+
+
+.div10{
+	height: 1500px;
+	width:5000px;
+	background-color:cyan;
+
+
+}
+.p11
+{
+ color:black;
+	font-size:80px;	
+	position: relative;
+	top: 600px;
+}
+i
+{
+
+	font-size: 100px;
+	padding-left: 125px;
+	padding-top: 15px;
+	position: relative;
+	top: 700px;
+
+}
+}
